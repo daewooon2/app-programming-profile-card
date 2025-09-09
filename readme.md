@@ -1,1 +1,2 @@
-# first-repository
+# 교수님 수고 많으십니다 !!
+
